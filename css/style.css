@@ -34,6 +34,13 @@ body{
 }
 main{
     flex-grow: 1;
+    background-color: rgb(209, 209, 209);
+    text-align: center;
+}
+
+h1,h2,h3{
+    justify-content: center;
+    text-align: center;
 }
 footer{
     display: flex;
