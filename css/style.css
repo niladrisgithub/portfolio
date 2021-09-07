@@ -74,3 +74,14 @@ p{
     padding-left: 25px;
     padding-right: 25px;
 }
+main{
+    padding: 10px;
+}
+.links{
+    font-size: large; 
+    color: #3d91d6;  
+}
+.card{
+    border: black;
+    border-style: solid;
+}
