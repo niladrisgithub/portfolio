@@ -85,3 +85,7 @@ main{
     border: black;
     border-style: solid;
 }
+.nav{
+    float: right;
+    clear: right;
+}
